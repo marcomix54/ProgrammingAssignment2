@@ -59,3 +59,4 @@ testCache <- makeCacheMatrix(test) # Generate the object with this matrix
 # Now we can calcultate the inversion using the cachSolve function
 
 testInverse <- cacheSolve(testCache)
+testInverse <- cacheSolve(testCache)
